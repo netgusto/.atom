@@ -1,0 +1,54 @@
+"*":
+  "exception-reporting":
+    userId: "2d282067-084f-f44b-a5ea-d5555990f310"
+  "release-notes":
+    viewedVersion: "0.73.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "89854bd7d1d7249cb5bc2f35059a56eee46e3756"
+  editor:
+    fontSize: 22
+    tabLength: 4
+    showInvisibles: true
+    fontFamily: "Input"
+    invisibles:
+      {}
+    lineHeight: 1.4
+    showIndentGuide: true
+    scrollPastEnd: true
+    scrollSensitivity: 27
+  core:
+    themes: [
+      "one-dark-ui"
+      "oceanic-next"
+    ]
+    disabledPackages: [
+      "wrap-guide"
+      "spell-check"
+      "package-generator"
+      "metrics"
+      "language-ruby-on-rails"
+      "image-view"
+      "exception-reporting"
+      "deprecation-cop"
+      "background-tips"
+      "autosave"
+      "symfony-snippets"
+      "php-checkstyle"
+      "linter-php"
+      "highlight-line"
+      "composer"
+    ]
+  "tree-view":
+    {}
+  "highlight-line":
+    backgroundRgbColor: "100, 100, 0"
+    opacity: "100%"
+    hideHighlightOnSelect: true
+    enableSelectionBorder: true
+  "language-babel":
+    babelStage: 0
+    externalHelpers: true
+    babelMapsAddUrl: false
+    createTargetDirectories: false
